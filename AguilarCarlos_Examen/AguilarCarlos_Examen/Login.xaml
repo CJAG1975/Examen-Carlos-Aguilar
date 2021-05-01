@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AguilarCarlos_Examen.Login">
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Frame BackgroundColor="Azure" Padding="12" CornerRadius="0">
+                <Label Text="LOGIN" HorizontalTextAlignment="Center" TextColor="White" FontSize="28"/>
+            </Frame>
+            <Label Text="DEPARTAMENTO FINANCIERO" TextColor="White" FontSize="17" Padding="10,10,30,10"
+               HorizontalTextAlignment="Center" BackgroundColor="Blue"/>
+            <Entry x:Name="txtUsuario" Placeholder="Usuario" FontSize="18"/>
+            <Entry x:Name="txtPassword" Placeholder="Clave" FontSize="18" IsPassword="True"/>
+            <Button x:Name="btnSiguiente"
+                Text="Siguiente >>"
+                Clicked="btnSiguiente_Clicked"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

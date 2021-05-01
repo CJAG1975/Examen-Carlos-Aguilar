@@ -1,0 +1,17 @@
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\AguilarCarlos_Examen.csproj.CoreCompileInputs.cache
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\AguilarCarlos_Examen.AssemblyInfoInputs.cache
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\AguilarCarlos_Examen.AssemblyInfo.cs
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\AguilarCarlos_Examen.dll
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\ref\AguilarCarlos_Examen.dll
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\AguilarCarlos_Examen.pdb
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\bin\Debug\netstandard2.0\AguilarCarlos_Examen.deps.json
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\bin\Debug\netstandard2.0\AguilarCarlos_Examen.dll
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\bin\Debug\netstandard2.0\ref\AguilarCarlos_Examen.dll
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\bin\Debug\netstandard2.0\AguilarCarlos_Examen.pdb
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\AguilarCarlos_Examen.csprojAssemblyReference.cache
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\XamlC.stamp
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\Login.xaml.g.cs
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+D:\examen\AguilarCarlos_Examen\AguilarCarlos_Examen\AguilarCarlos_Examen\obj\Debug\netstandard2.0\Resumen.xaml.g.cs
